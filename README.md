@@ -26,8 +26,6 @@ With a background in full-stack development and a focus on backend programming, 
 - **Continuous Learning:** Committed to staying updated with the latest technologies and continually refining my coding and problem-solving skills. 📈
 
 ## Connect with Me 📬
-- 🌐 [GitHub](https://github.com/tinkzbot)
+- 🌐 [GitHub](https://github.com/zacksbot)
 - 📫 [Email](mailto:ziadi.zack@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/zack-ziadi)
-
-I’m excited to collaborate on projects that challenge the status quo and create innovative solutions. Let’s connect and build something amazing together! 🌍
