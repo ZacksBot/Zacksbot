@@ -12,9 +12,10 @@ With a background in full-stack development and a focus on backend programming, 
 - **Software Development:** Backend API development, frontend design, and mobile app development for both Android and iOS.
 
 ## Key Projects 📚
-- **[Automate Jobs](https://github.com/tinkzbot/automate-jobs):** Created an automated job application system with AI-generated cover letters, optimizing the job search process.
-- **[Tibiantis Store](https://github.com/tinkzbot/tibiantis-store):** Developed an e-commerce platform for the Tibiantis Online community, integrating payment gateways and a Discord bot.
-- **[Softhouse Mobile App](https://github.com/tinkzbot/softhouse-mobile-app):** Contributed as a full-stack developer to a mobile application, managing backend APIs and user interfaces.
+- **[Automate Jobs]:** Created an automated job application system with AI-generated cover letters, optimizing the job search process.
+- **[Tibiantis Store]:** Developed an e-commerce platform for the Tibiantis Online community, integrating payment gateways and a Discord bot.
+- **[Better Task-Manager](https://github.com/ZacksBot/BetterTaskManager):** Developed a task manager with better features, including a scheduling system, calendar, and more...
+- **[Softhouse Mobile App]:** Contributed as a full-stack developer to a mobile application, managing backend APIs and user interfaces.
 
 ## Education 🎓
 - **Bachelor of Technology, Computer Software Engineering**
