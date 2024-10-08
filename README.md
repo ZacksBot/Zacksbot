@@ -15,7 +15,8 @@ With a background in full-stack development and a focus on backend programming, 
 - **[Automate Jobs]:** Created an automated job application system with AI-generated cover letters, optimizing the job search process.
 - **[Tibiantis Store]:** Developed an e-commerce platform for the Tibiantis Online community, integrating payment gateways and a Discord bot.
 - **[Better Task-Manager](https://github.com/ZacksBot/BetterTaskManager):** Developed a task manager with better features, including a scheduling system, calendar, and more...
-- **[Softhouse Mobile App]:** Contributed as a full-stack developer to a mobile application, managing backend APIs and user interfaces.
+- **[Nevent]:** Contributed as a full-stack developer to a mobile application, managing backend APIs and user interfaces.
+- **[Project Foodie]:** Developed a user-friendly web application for digital food ordering, tailored for seniors using WCAG rules
 
 ## Education 🎓
 - **Bachelor of Technology, Computer Software Engineering**
