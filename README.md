@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Zack Ziadi!
 
-I’m a software engineer with a strong passion for solving complex problems and building innovative solutions, particularly in the realm of backend development. My goal is to make a significant impact in the tech industry by leveraging my skills to develop robust, efficient, and scalable applications.
+I’m a software engineer with a strong passion for solving complex problems and building cool stuff, particularly in the realm of backend development. 
 
 ## About Me
-With a background in full-stack development and a focus on backend programming, I thrive on tackling challenging problems and pushing the boundaries of what technology can achieve. I am driven by a deep desire to continuously learn and grow, both personally and professionally. My unique combination of technical expertise and problem-solving skills enables me to deliver high-quality software solutions that meet and exceed expectations.
+With a background in full-stack development and a focus on backend programming, I thrive on tackling challenging problems and pushing the boundaries of what technology can achieve. I am driven by a deep desire to continuously learn and grow, both personally and professionally.
 
 ## Technical Skills 🛠️
 - **Languages:** JavaScript, Python, Golang, C#, SQL, HTML, CSS
